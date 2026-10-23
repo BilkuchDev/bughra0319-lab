@@ -1,72 +1,36 @@
 <div align="center">
 
-  <!-- ئۈستۈنكى بۆلەك ۋە تېما -->
-  <h1>🌙 Bughra | بۈغرا ⭐️</h1>
-  <p><strong>تېخنىكا، كومپيۇتېر مائارىپى، سۈنئىي ئەقىل ۋە كودلاشتۇرۇش دۇنياسى</strong></p>
+  <!-- ئاسمان كۆك رەڭلىك يۇقىرى تېخنىكىلىق باش بەلگە -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A3E0&height=220&section=header&text=Bughra%20|%20بۈغرا&fontSize=65&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Practitioner%20%E2%80%A2%20Tech%20Educator&descAlignY=58&descFontSize=20&fontColor=ffffff" width="100%" alt="Header" />
 
-  <!-- زىيارەت سانى (كۆك ئاق رەڭدە) -->
-  <img src="https://komarev.com/ghpvc/?username=bughra0319-lab&label=Profile%20Views&color=5599ff&style=flat-square" alt="Profile Views" />
+  <!-- يېزىلىۋاتقان كود ئېففېكتى (Typing SVG) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00A3E0&center=true&vCenter=true&width=650&lines=%3C%2F%3E+Architecting+Scalable+Solutions+%26+Clean+Code;%F0%9F%8C%99+Driven+by+Innovation%2C+Shaped+with+Purpose+%E2%AD%90;AI+Engineering+%7C+Modern+Systems+%7C+Open-Source;Empowering+Minds+Through+Tech+Education" alt="Typing SVG" />
+  </a>
 
-  <br/><br/>
+  <br/>
 
-  <!-- كۆك ھەم ئاق نۇردىكى تېخنىكا نىشانلىرى (Badges) -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/AI_&_Prompting-007ACC?style=for-the-badge&logo=openai&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GIS_Mapping-2E8B57?style=for-the-badge&logo=qgis&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Git_&_GitHub-0052CC?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Linux_&_OS-0080FF?style=for-the-badge&logo=linux&logoColor=white" />
-  </a>
+  <!-- كۆك ئاق شەكىلدىكى تېز كۆرسەتكۈچلەر -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Actively_Coding-00A3E0?style=for-the-badge&logo=statuspage&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=bughra0319-lab&label=Profile%20Views&color=00A3E0&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Focus-System_Architecture_%26_AI-ffffff?style=for-the-badge&logo=target&logoColor=00A3E0" />
+  </p>
 
 </div>
 
 ---
 
-### 🌟 مەن ھەققىدە (About Me)
+### 👨‍💻 `whoami` & مەن ھەققىدە
 
-- 💻 **ساھەم:** كومپيۇتېر ئوقۇتۇشى، تېخنىكا تۈرلىرى ۋە سۈنئىي ئەقىل (AI) ئەمەلىي تەتبىقلىرى.
-- 🚀 **نۆۋەتتىكى ئىزدىنىشىم:** ئوچۇق كودلۇق مائارىپ قوراللىرى، تېخنىكىلىق قوللانمىلار ۋە ئاپتوماتلاشتۇرۇش.
-- 🗺️ **ئالاھىدە قىزىقىشىم:** جۇغراپىيىلىك ئۇچۇر سىستېمىسى (GIS)، سىستېما تەڭشەكلىرى، لايىھىلەش ۋە بىلىم تارقىتىش.
-- 🤝 **ھەمكارلىق:** سۈنئىي ئەقىل، مائارىپ تېخنىكىسى ۋە تۈرلۈك يۇمشاق دېتال قۇرۇلۇشلىرىدا تەجرىبە ئالماشتۇرۇشنى قارشى ئالىمەن.
-
----
-
-### 📊 GitHub كۆرسەتكۈچلىرى (GitHub Stats)
-
-<div align="center">
-  <!-- بايراقتىكى كۆك رەڭگە ماس كېلىدىغان مەخسۇس كۆك كارتلار -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bughra0319-lab&show_icons=true&title_color=5599ff&text_color=ffffff&icon_color=5599ff&bg_color=0d1117&border_color=5599ff&hide_border=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bughra0319-lab&layout=compact&title_color=5599ff&text_color=ffffff&bg_color=0d1117&border_color=5599ff&hide_border=false" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- كۆك رەڭلىك زەنجىرسىمان كود تاپشۇرۇش ئىستاتىستىكىسى -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bughra0319-lab&theme=dark&background=0d1117&border=5599ff&stroke=5599ff&ring=5599ff&fire=5599ff&currStreakLabel=5599ff" alt="GitHub Streak" />
-</div>
-
----
-
-### 🌐 ئالاقە ۋە ئۇلىنىش (Connect with Me)
-
-<p align="center">
-  <a href="https://github.com/bughra0319-lab">
-    <img src="https://img.shields.io/badge/GitHub-bughra0319--lab-007ACC?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-ئېلخەت_ئادرېسىڭىز-0080FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <sub>✨ كود بىلەن كەلگۈسىنى يارىتايلى ✨</sub>
-</div>
+```yaml
+engineer:
+  alias: Bughra
+  title: Software Engineer & System Specialist
+  primary_stack: [Python, Modern JavaScript, Docker, Linux, AI Frameworks]
+  core_competencies:
+    - Distributed Systems & Backend Engineering
+    - LLM Integration, RAG Pipelines & AI Agents
+    - Geographic Information Systems (GIS) & Spatial Analytics
+    - Clean Architecture, Automation & CI/CD Pipelines
+  philosophy: "ئەلا سۈپەتلىك كود، ئېنىق قۇرۇلما ۋە مەڭگۈلۈك ئۈنۈم."
